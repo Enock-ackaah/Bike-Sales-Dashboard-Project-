@@ -11,5 +11,7 @@ Data-driven recommendations for increasing sales.
 Tools Used:
 Microsoft Excel (Pivot Tables, Charts)
 
+Data used
+https://github.com/Enock-ackaah/Bike-Sales-Dashboard-Project-/blob/main/project%20dataset.xlsx
 Dashboard image
 https://github.com/Enock-ackaah/Bike-Sales-Dashboard-Project-/blob/main/Screenshot%202024-12-18%20013023.png
